@@ -1,3 +1,4 @@
+#bj1058
 num=int(input())
 arr=[[0]*num for i in range(num)]
 count=0
